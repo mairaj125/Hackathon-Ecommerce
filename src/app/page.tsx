@@ -1,14 +1,10 @@
 "use client"
-import { FiChevronDown  } from 'react-icons/fi';
-import Image from "next/image";
-import { FiChevronRight } from "react-icons/fi";
 
 import MenuBar from './components/MenuBar';
 import TopBar from './components/TopBar';
 import FlashSales from "./components/FlashSales";
 import Categories from "./components/Categories";
 import BestSellingProducts from "./components/BestSellingProducts";
-import NewArrival from "./components/NewArrival";
 import ProductGrid from "./components/ProductGrid";
 
 import Footer from './components/Footer';
